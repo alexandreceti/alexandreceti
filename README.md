@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **alexandreceti/alexandreceti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/alexandrecunhaeti/" target="_blank">
     <img 
-        src="images/linkedin.svg" 
+        src="img/linkedin.svg" 
         alt="linkedIn" 
         width="55" 
         align="right" />
@@ -39,19 +39,31 @@ Here are some ideas to get you started:
 
 ## Total views:
 
-<img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
+<img alingn="center" src="https://profile-counter.glitch.me/alexandreceti/count.svg" />
 
 ## Skills:
 <p align="center">
-    <a href="https://code.visualstudio.com"><img src="img/vscode.svg" alt="vscode" width="40" height="40"/> 
-    <a href="https://dotnet.microsoft.com/download"><img src="img/net.svg" alt="net" width="40" height="40"/>  
-    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img src="img/cs.svg" alt="cs" width="40" height="40"/>  
-    <a href="https://www.microsoft.com/pt-br/windows/"><img src="img/windows.svg" alt="windows" width="40" height="40"/>
-    <a href="https://www.microsoft.com/pt-br/sql-server"><img src="images/mssql.svg" alt="mssql" width="40" height="40"/>  
-    <a href="https://www.docker.com/"><img src="images/docker.svg" alt="docker" width="40" height="40"/>
-    <a href="https://git-scm.com/"><img src="images/git.svg" alt="git" width="40" height="40"/>
-    
-     
+    <a href="https://pt.wikipedia.org/wiki/Linux">
+      <img src="img/tux.svg" alt="cs" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/pt-br/windows/">
+      <img   src="img/windows.svg" alt="windows" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com">
+      <img src="img/vscode.svg" alt="vscode" width="40" height="40"/>
+    </a>  
+    <a href="https://nodejs.org/pt-br/">
+      <img src="img/nodejs.svg" alt="net" width="40" height="40"/>
+    </a>
+    <a href="https://pt-br.reactjs.org/">
+      <img src="img/react.svg" alt="net" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/">
+      <img src="img/docker.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/">
+      <img src="img/git.svg" alt="git" width="40" height="40"/>
+    </a>
 </p>
     
 

@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <a href="https://www.linkedin.com/in/alexandrecunhaeti/" target="_blank">
     <img 
         src="img/linkedin.svg" 
@@ -24,24 +23,24 @@ Here are some ideas to get you started:
         align="right" />
 </a>
 
+# Olá, sou Alexandre <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-# Hi there, I'm Alexandre <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Sobre:
 
+Gosto de estudar novas tecnologias
 
-## About: 
-
-- 📚 I like to studies new tecnologies
-- 📚 Graduated in Information Systems.
-- 🌱 Postgraduate Degree Software Developer Student 
-<!-- - ❤️ interests:  C#, .Net Core, Cloud, and all that's good. -->
-<!-- - 🎮 I love play video games  -->
-
+- 📚 Graduado em Sistemas de Informação.
+- 📚 Pos-graduado em Arquitetura de sistemas Distribuidos.
+- 🛵 Gosto de passear de moto e 🚗 viajar e 🎮 Games nos fins de semana.
+- ❤️ JavaScript, TypeScript, Angular e HTML/CSS
+- 💻 Servidores, docker, Zabbix, Grafana, Máquinas Virtuais e Containers também são assuntos que tenho interesse.
 
 ## Total views:
 
 <img alingn="center" src="https://profile-counter.glitch.me/alexandreceti/count.svg" />
 
-## Skills:
+## Habilidades:
+
 <p align="center">
     <a href="https://pt.wikipedia.org/wiki/Linux">
       <img src="img/tux.svg" alt="cs" width="40" height="40"/>
@@ -65,14 +64,12 @@ Here are some ideas to get you started:
       <img src="img/git.svg" alt="git" width="40" height="40"/>
     </a>
 </p>
-    
 
-## Some statics:
+## Algumas estáticas:
+
 <p align="center">
   <a href="#">
     <img src='https://github-readme-stats.vercel.app/api?username=alexandreceti&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreceti&theme=tokyonight&hide_langs_below=4'/>
   </a>
 </p>
-
-

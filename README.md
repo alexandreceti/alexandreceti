@@ -1,20 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**alexandreceti/alexandreceti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <a href="https://www.linkedin.com/in/alexandrecunhaeti/" target="_blank">
     <img 
         src="img/linkedin.svg" 
@@ -35,11 +18,9 @@ Gosto de estudar novas tecnologias
 - ❤️ JavaScript, TypeScript, Angular e HTML/CSS
 - 💻 Servidores, docker, Zabbix, Grafana, Máquinas Virtuais e Containers também são assuntos que tenho interesse.
 
-## Total views:
+</p>
 
-<img alingn="center" src="https://profile-counter.glitch.me/alexandreceti/count.svg" />
-
-## Habilidades:
+## Habilidades: <img src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" align="right"/>
 
 <p align="center">
     <a href="https://pt.wikipedia.org/wiki/Linux">

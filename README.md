@@ -15,7 +15,7 @@ Gosto de estudar novas tecnologias
 - 📚 Graduado em Sistemas de Informação.
 - 📚 Pos-graduado em Arquitetura de sistemas Distribuidos.
 - 🛵 Gosto de passear de moto e 🚗 viajar e 🎮 Games nos fins de semana.
-- ❤️ JavaScript, TypeScript, Angular e HTML/CSS
+- ❤️ [JavaScript](https://github.com/alexandreceti?tab=repositories&q=&type=&language=javascript&sort=), [TypeScript](https://github.com/alexandreceti?tab=repositories&q=&type=&language=typescript&sort=), Angular e HTML/CSS
 - 💻 Servidores, docker, Zabbix, Grafana, Máquinas Virtuais e Containers também são assuntos que tenho interesse.
 
 </p>
